@@ -1,0 +1,9 @@
+Computer log;10;0
+Tirechange(Winter/Summer);30;0
+Repairpuncture;30;1000
+Replaceoils;20;15000
+Replacefilters;40;6000
+Repairclutch;180;20000
+Repairbrakes;60;13000
+Fillanti-iceliquid;15;7000
+Repairlights;20;3000
